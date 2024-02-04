@@ -1,0 +1,52 @@
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe.config
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.pdb
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.AssemblyReference.cache
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmAnaEkran.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmGiris.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.Properties.Resources.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.GenerateResource.cache
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CoreCompileInputs.cache
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.exe
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.pdb
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapKategori.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTur.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmYazar.resources
+C:\Users\ereny\Desktop\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmUye.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.AssemblyReference.cache
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.Properties.Resources.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.GenerateResource.cache
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CoreCompileInputs.cache
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe.config
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.pdb
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.exe
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.pdb
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmGiris.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmAnaEkran.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKutuphane.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitap.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTeslimEt.resources
+C:\Users\Volkan IRMAK\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTeslimAl.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe.config
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.exe
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\bin\Debug\KutuphaneProje.pdb
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.AssemblyReference.cache
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmAnaEkran.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmGiris.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitap.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTeslimAl.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTeslimEt.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKutuphane.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.Properties.Resources.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.GenerateResource.cache
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.csproj.CoreCompileInputs.cache
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.exe
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.pdb
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmUyeYonetimi.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmYazar.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapKategori.resources
+C:\Users\ereny\Desktop\eren\KutuphaneProje\KutuphaneProje\KutuphaneProje\KutuphaneProje\obj\Debug\KutuphaneProje.frmKitapTur.resources
