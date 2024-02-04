@@ -12,6 +12,17 @@ Yeni kitap ekle seçeneği seçilirse kitap kategorisi, kitap türü, yazar haz�
 
 Ana sayfadaki üye yönetimi seçeneği ise kütüphaneye kayıtlı olan kullanıcıları gösterir. Yeni üye eklemek için gerekli alanlar doldurulur ancak bir üye ile diğer üyenin e-maili ve telefon numarası aynı olamayacağı için aynı girildiği takdirde işlem hata verir ve kontrol etmenizi ister. Kayıtlı bir üye için üzerine çift tıklayıp bilgiler düzenlenebilir fakat e mail ve telefon benzersiz olmalıdır veya sil butonu ile üye silinebilir.
 
+Kodlarla ilgili;
+Kullanıcı girişi için 
+kullanıcı adı:eren 
+kullanıcı şifresi:123456
+Projenin içinde helper adında bir dosya oluşturdum.
+Şifreleme adında bir sınıf oluşturdum. Gerekli olan kodları yapıştırdım bunu girişte şifre isterken kullanıyoruz.
+Database adında bir sınıf oluşturdum çünkü her sayfada Sql e bağlantı kurmak ve veri tabanından veri çekmek zorundayım bağlantıyı tanımladım her formda sadece çağırarak kod israfından kurtuldum.
+
+Veri tabanının kodları dosya içinde mevcuttur.
+
+
 Ana sayfadaki kitap ver seçeneği seçilirse kitabın adını ve üyenin adını seçmenizi ister doldurup kitabı teslim et butonuna tıklayabilirsiniz.
 
 Ana sayfadaki kitap teslim al seçeneği seçilirse üyelerin adları gelir üye adı seçilir üye eğer kitap almışsa aldığı kitap listelenir çift tıkladıktan sonra kitabı teslim al butonuna tıklayarak teslim alabilirsiniz.
