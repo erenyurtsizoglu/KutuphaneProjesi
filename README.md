@@ -1,3 +1,5 @@
+Eren Yurtsızoğlu 221216027 Bitirme Projesi   keyvanarasteh   https://github.com/keyvanarasteh
+
 Bu projede giriş ekranı bizi karşılıyor. Burada bizden kullanıcı adı ve şifre isteniyor. İstenilenleri doldurup giriş butonuna basınca program ilk başta değerlerin doldurulup doldurulmadığını kontrol ediyor eğer doldurulmuşsa kullanıcının başta ve sonda basabileceği boşlukları temizliyor ve şifreyi md5 şifreleme fonksiyonu ile şifreleyip sonrasında veri tabanından girilen değerlerin doğruluğunu kontrol ediyor eğer yanlış girilmişse hata ekranını gösteriyor değerler doğruysa ana ekran açılıyor.
 
 Ana ekranda hangi kullanıcının giriş yaptığı alt tarafta belirtiliyor. Kütüphane yönetimi, üye yönetimi, kitap teslim ver ve kitap teslim al seçenekleri bizi karşılıyor.
